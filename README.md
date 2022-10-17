@@ -1,6 +1,8 @@
 # Data supporting *Double-diffusive transport in multicomponent vertical convection*
 
 This repository contains post-processing Jupyter notebooks used to construct figures from the manuscript.
+The manuscript is currently under review at *Physical Review Fluids* and is available on arXiv at https://arxiv.org/abs/2207.09230
+
 The files provided are as follows
 
 - `collect_profiles.ipynb`
