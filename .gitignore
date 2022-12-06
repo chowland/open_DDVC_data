@@ -3,3 +3,4 @@ passive
 Sc10
 Sc100
 afidtools/__pycache__
+*.pdf
