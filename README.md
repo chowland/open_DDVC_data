@@ -1,5 +1,7 @@
 # Data supporting *Double-diffusive transport in multicomponent vertical convection*
 
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.7404867.svg)
+
 This repository contains post-processing Jupyter notebooks used to construct figures from the manuscript.
 The manuscript has been accepted for publication in *Physical Review Fluids* and is available on arXiv at https://arxiv.org/abs/2207.09230
 
